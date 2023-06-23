@@ -1,3 +1,3 @@
 <h1 align="center"> AuraTestnet-service
   
- [PEER](https://github.com/YTWOFUND/Aura-service/blob/main/AuraTestnet/AuraTest-Peer.md)   |   [RPC]()   |   [gRPC]()    |   [REST]()    |   [State-Sync]()   |   [Snapshot]()      
+ [PEER](https://github.com/YTWOFUND/Aura-service/blob/main/AuraTestnet/AuraTest-Peer.md)   |   [RPC](https://github.com/YTWOFUND/Aura-service/blob/main/AuraTestnet/AuraTest-RPC.md)   |   [gRPC]()    |   [REST]()    |   [State-Sync]()   |   [Snapshot]()      
